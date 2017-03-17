@@ -7,8 +7,8 @@ for ex.
 $./server -p 50000 -r /home/
 to start a server at port 50000 with root directory as "/home"
 
-$./server -r /home/shadyabhi
-starts the server at port 10000 with ROOT as /home/shadyabhi
+$./server -r /home/web-server
+starts the server at port 8888 with ROOT as /home/web-server
 */
 
 #include <stdio.h>
